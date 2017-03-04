@@ -62,3 +62,40 @@ li.active{
   justify-content: center;
   margin-bottom: 2.25rem;
 }
+.team_box{
+  background-color: #4a4a4a;
+  margin-top: 3rem;
+}
+.team_header{
+  color: white;
+  font-family: 'Arbutus Slab';
+  font-size: 3rem;
+  margin-top: 5rem;
+  margin-bottom: 3.375rem;
+}
+.captions{
+  color: white;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 7.25rem;
+}
+.clients{
+  margin-top: 5.25rem;
+  height: 88px;
+  border-top: 1px solid #d4d5d6;
+  display: flex;
+  justify-content: center;
+}
+.clients h1{
+  font-family: 'Arbutus Slab';
+  font-size: 3rem;
+  position:relative;
+  top: -46px;
+  width: 362px;
+  padding: 0px;
+  background-color: white;
+}
+footer{
+  margin-top: 5rem;
+  background-color: #e9ebeb;
+}
