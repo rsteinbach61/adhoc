@@ -170,4 +170,12 @@ font-size: 2rem;
 .captions{
   display: none;
 }
+.client_logo{
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+#links li{
+  display: list-item;
+  text-align: left;
+}
 }
